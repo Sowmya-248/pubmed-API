@@ -1,0 +1,6 @@
+#!/home/sowmya/Downloads/Task/Empty/venv/bin/python
+import sys
+from get_papers_list import main
+
+if __name__ == '__main__':
+    sys.exit(main())
