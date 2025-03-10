@@ -1,0 +1,9 @@
+git init from folder open in terminal 
+git add . for all or git add file name
+git commit -m "first commit"
+git remote add origin https://github.com/Sowmya-248/...
+git push -u origin master
+username and password 
+dev settings give access to all then generate token then committed
+the project
+
