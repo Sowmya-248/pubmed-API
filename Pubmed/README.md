@@ -53,7 +53,8 @@ Empty/  # Root directory
 ├── get_papers_list.py  # CLI script
 ├── pyproject.toml      # Poetry config
 ├── README.md           # Documentation
-
+#LLM
+Chatgpt with required prompts and understanding about python libraries that have been used in this project
 
 
 ## Dependencies
